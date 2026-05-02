@@ -1,5 +1,5 @@
 # About Me:
-Junior Software Developer with 1+ year of experience in .NET and SQL Server. Skilled in building CRUD applications, REST APIs, and full-stack web solutions using ASP.NET, ADO.NET, and Entity Framework. Experienced in developing ERP systems with role-based access and optimized database design. Passionate about writing clean, maintainable code and continuously improving development skills.
+Junior Software Developer with 1+ year of experience in .NET and SQL Server. Skilled in building CRUD applications, REST APIs, and full-stack devloper using ASP.NET, ADO.NET, and Entity Framework. Experienced in developing ERP systems with role-based access and optimized database design. Passionate about writing clean, maintainable code and continuously improving development skills.
 
 
 ## 🌐 Socials:
